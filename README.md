@@ -8,6 +8,7 @@
   4. Export the Employees 
   5. Add new employee
 # Dependancy Injection is used for the services
+# Asynchronous programming used wherever needed
 # There is a config file created to store all configurable items
 # Custom & Generic error handling is done
 # This solution does not cover Updating employees, Unit test case & and some validaiton due to shortage of time
